@@ -63,7 +63,7 @@ public class Game {
 	}
 	
 	public int getHeight() {
-		return w;
+		return h;
 	}
 	
 	public void setPlayers(Player player1, Player player2) {
